@@ -1,0 +1,36 @@
+proj\motor.o: Compenents\motor.c
+proj\motor.o: Compenents\motor.h
+proj\motor.o: Compenents\pid.h
+proj\motor.o: Compenents\struct_typedef.h
+proj\motor.o: ../Core/Inc/main.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+proj\motor.o: ../Core/Inc/stm32f4xx_hal_conf.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+proj\motor.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+proj\motor.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+proj\motor.o: ../Drivers/CMSIS/Include/core_cm4.h
+proj\motor.o: D:\qianrushi\keil5 MDK\ARM\ARMCC\Bin\..\include\stdint.h
+proj\motor.o: ../Drivers/CMSIS/Include/cmsis_version.h
+proj\motor.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+proj\motor.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+proj\motor.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+proj\motor.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+proj\motor.o: D:\qianrushi\keil5 MDK\ARM\ARMCC\Bin\..\include\stddef.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+proj\motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+proj\motor.o: Compenents\pidData.h
